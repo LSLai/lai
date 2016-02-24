@@ -1,0 +1,25 @@
+body{
+	background: blue;
+	color:white;
+
+
+}
+
+h1{
+	color: red;
+}
+p{
+	background-color: #FFF;
+	color: #000;
+}
+
+#banner{
+	background-color: #0f0;
+	color:#000;
+}
+.pequenas{
+	font-size: 35px;
+}
+.vermelhas{
+	color:red;
+}
